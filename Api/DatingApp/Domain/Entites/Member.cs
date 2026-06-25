@@ -1,0 +1,51 @@
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
+
+namespace DatingApp.Domain.Entites
+{
+    public class Member
+    {
+
+        public string Id { get; set; } = null!;
+
+        public DateOnly DateBirth { get; set; }
+
+        public string? ImageUrl { get; set; }
+
+        public required string DisplayName { get; set; }
+
+        public DateTime Created { get; set; } = DateTime.UtcNow;
+
+        public DateTime LastActive { get; set; } = DateTime.UtcNow;
+
+        public required string Gender { get; set; }
+
+        public required string City { get; set; }
+
+        public required string Country { get; set; }
+
+        public string? Descriptions { get; set; } = string.Empty;
+
+        [JsonIgnore]
+        public List<MemberLike> LikedByMembers { get; set; } = [];
+        [JsonIgnore]
+        public List<MemberLike> LikedMembers { get; set; } = [];
+
+        [JsonIgnore]
+        public List<Photo> Photos { get; set; } = [];
+
+        [JsonIgnore]
+        [ForeignKey(nameof(Id))]
+        public AppUser User { get; set; } = null!;
+
+
+        [JsonIgnore]
+        public List<Message> MessagesSent { get; set; } = [];
+
+
+        [JsonIgnore]
+        public List<Message> MessagesRecived { get; set; } = [];
+
+
+    }
+}

@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\signalr\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\signalr\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\signalr\\presencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\signalr\\presencetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\signalr\\presencehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\signalr\\presencehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\infrastructer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\infrastructer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\domain\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\domain\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\domain\\interfaces\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\domain\\interfaces\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\infrastructer\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\infrastructer\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\infrastructer\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\infrastructer\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\infrastructer\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\infrastructer\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\infrastructer\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\infrastructer\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\dto\\hubs\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\dto\\hubs\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\infrastructer\\data\\migrations\\20260625013304_msessagegroupadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\infrastructer\\data\\migrations\\20260625013304_msessagegroupadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\dto\\hubs\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\dto\\hubs\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\dto\\messagedtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\dto\\messagedtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|c:\\users\\abdo\\source\\repos\\datingapp\\datingapp\\application\\services\\interfaces\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE022C4A-0F76-02A7-FCA2-A4A82BCB18C2}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\application\\services\\interfaces\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:02:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:02:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\BuggyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:02:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:02:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:02:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LikeController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\LikeController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\LikeController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\LikeController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\LikeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:51:27.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\TokenService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:51:05.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Services\\PhotoService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\PhotoService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Services\\PhotoService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:51:02.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Domain\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "DatingApp\\Domain\\Interfaces\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:47:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\ILikeRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Domain\\Interfaces\\ILikeRepository.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\ILikeRepository.cs",
+              "RelativeToolTip": "DatingApp\\Domain\\Interfaces\\ILikeRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:47:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Infrastructer\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "DatingApp\\Infrastructer\\Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T11:22:44.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Repositories\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Infrastructer\\Repositories\\LikeRepository.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Repositories\\LikeRepository.cs",
+              "RelativeToolTip": "DatingApp\\Infrastructer\\Repositories\\LikeRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowD0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:46:37.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\MemberService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Services\\MemberService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:40:31.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\AdminService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:40:29.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Infrastructer\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "DatingApp\\Infrastructer\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:29:53.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "DatingApp\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:28:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:23:51.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\AccountService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Services\\AccountService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:23:49.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T11:57:32.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260625013304_msessageGroupadded.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Data\\Migrations\\20260625013304_msessageGroupadded.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Infrastructer\\Data\\Migrations\\20260625013304_msessageGroupadded.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Data\\Migrations\\20260625013304_msessageGroupadded.cs",
+              "RelativeToolTip": "DatingApp\\Infrastructer\\Data\\Migrations\\20260625013304_msessageGroupadded.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T01:33:05.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Infrastructer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DatingApp\\Infrastructer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:41:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Infrastructer\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Infrastructer\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "DatingApp\\Infrastructer\\Repositories\\MessageRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAxwFEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:14:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Domain\\Interfaces\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Domain\\Interfaces\\IMessageRepository.cs",
+              "RelativeToolTip": "DatingApp\\Domain\\Interfaces\\IMessageRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:38:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\DTO\\Hubs\\Connection.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\DTO\\Hubs\\Connection.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\DTO\\Hubs\\Connection.cs",
+              "RelativeToolTip": "DatingApp\\Application\\DTO\\Hubs\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:36:31.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\DTO\\Hubs\\Group.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\DTO\\Hubs\\Group.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\DTO\\Hubs\\Group.cs",
+              "RelativeToolTip": "DatingApp\\Application\\DTO\\Hubs\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:35:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\DTO\\MessageDtos\\MessageDto.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\DTO\\MessageDtos\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\DTO\\MessageDtos\\MessageDto.cs",
+              "RelativeToolTip": "DatingApp\\Application\\DTO\\MessageDtos\\MessageDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:03:54.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Services\\MessageService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Services\\MessageService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:48:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Api\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Api\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "DatingApp\\Api\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:48:53.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Interfaces\\IMessageService.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Application\\Services\\Interfaces\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Application\\Services\\Interfaces\\IMessageService.cs",
+              "RelativeToolTip": "DatingApp\\Application\\Services\\Interfaces\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:48:33.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageHub.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\SignalR\\MessageHub.cs",
+              "RelativeDocumentMoniker": "DatingApp\\SignalR\\MessageHub.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\SignalR\\MessageHub.cs*",
+              "RelativeToolTip": "DatingApp\\SignalR\\MessageHub.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:25:53.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresenceTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\SignalR\\PresenceTracker.cs",
+              "RelativeDocumentMoniker": "DatingApp\\SignalR\\PresenceTracker.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\SignalR\\PresenceTracker.cs",
+              "RelativeToolTip": "DatingApp\\SignalR\\PresenceTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:25:52.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PresenceHub.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\SignalR\\PresenceHub.cs",
+              "RelativeDocumentMoniker": "DatingApp\\SignalR\\PresenceHub.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\SignalR\\PresenceHub.cs",
+              "RelativeToolTip": "DatingApp\\SignalR\\PresenceHub.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:31:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Program.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdo\\source\\repos\\DatingAPP\\DatingApp\\Program.cs",
+              "RelativeToolTip": "DatingApp\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwFYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:31:27.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1133,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
